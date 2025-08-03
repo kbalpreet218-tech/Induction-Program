@@ -19,9 +19,8 @@ Branch - B.Tech CSE
 
 4. Welcome speech given by one of our serior Taranpreet Kaur And Celebrate 70th Golden Jubliee of Guru Nanak Dev Engineering College in the field of Education.
 
-5. Information given by Harsimran Singh Jaggi about the facilities, Infrastructure, Accreditation, Research avenues and active students clubs of the college and also give         information about the college that GNDEC is founded by Nankana sahib education trust with th aim of lifting Rural Education and 70% seats are reserved for Rural Students.
+5. Information given by Harsimran Singh Jaggi about the facilities, Infrastructure, Accreditation, Research avenues and active students clubs of the college and also given        the information about the college that GNDEC is founded by Nankana sahib education trust with th aim of lifting Rural Education and 70% seats are reserved for Rural          Students. Foundation Stone was lead by first President of India Dr. Rajindera Parsad Ji of the date of 8th April 1956.
 
-     Foundation Stone was lead by first President of India dr. Rajindera Parsad ji of the date of 8th April 1953.
      
 
      
