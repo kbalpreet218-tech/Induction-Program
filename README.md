@@ -1,3 +1,2 @@
 #Day 1
-
-##Indution Program
+##induction program
