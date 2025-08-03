@@ -1,7 +1,7 @@
 Name - Balpreet Kaur
-   Branch - Btech Cse
+Branch - Btech Cse
 
-   # Introduction - Day 1
+# Introduction - Day 1
 
    
 
