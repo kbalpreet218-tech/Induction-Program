@@ -37,7 +37,7 @@ The third day of my college journey was enriching, marked by valuable learning, 
 The day began with an insightful lecture by Dr. Jaswinder Singh, in charge of IAPT, who spoke with clarity, passion, and depth. His words were both motivational and thought-provoking, and his dynamic approach to the session left a strong impression on me. I found his lecture truly inspiring, encouraging me to approach my academic journey with greater enthusiasm and purpose.
 
 
-### UNIVERSAL HUMAN VALUES 
+### "UNIVERSAL HUMAN VALUES" 
 
 Our second lecture was on Universal Human Values, a subject that really made me pause and reflect. We talked about what happiness and contentment truly mean, and how they influence the way we think, act, and make decisions every day. The session felt more like a conversation than a lecture—it opened up new ways of looking at life and what it means to feel genuinely fulfilled. Hearing real-life experiences from others made everything more relatable and meaningful, and I walked away with a clearer sense of what truly matters.
 
