@@ -1,6 +1,8 @@
 Name - Balpreet Kaur
 Branch - B.Tech CSE
 
+# Introduction Program
+
 # Day 1
 
 ### My First Day at Guru Nanak Dev Engineering College (GNDEC) 
@@ -14,6 +16,11 @@ We were then inspired by an alumnus, Mr. Sagam Arora, topper of the 2021–2025 
 The session concluded with a motivational speech by Dr. Harpreet Kaur Grewal, Head of the Department of Applied Sciences. She encouraged us to focus on self-discipline, personal growth, and consistent effort during our next four years, guiding us on how to make the most of this important phase of our academic and personal journey.The event continued with an inspiring address by the Chief Guest, Dr. Rakesh Kumar, a proud alumnus of GNDEC from the 1991 batch. He spoke warmly about his time at the college, sharing personal experiences that highlighted the strong academic foundation, values, and culture of the institution. His words resonated with us, offering both motivation and a sense of belonging as we begin our own journey here.
 
 Following the session, we were escorted to our respective departments, officially marking the start of our academic life at GNDEC.
+
+
+
+
+# Day - 2
 
 
 
