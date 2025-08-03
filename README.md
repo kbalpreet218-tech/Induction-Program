@@ -6,7 +6,6 @@ Branch - B.Tech CSE
 ## Day 1
 
 ### My First Day at Guru Nanak Dev Engineering College (GNDEC) 
-
 My first day at GNDEC began with a spiritual visit to the Gurdwara Sahib from 8:30 AM to 10:30 AM. The session included the recitation of Japji Sahib and Chaupai Sahib, followed by Kirtan, Ardaas, and the Hukamnama. This peaceful and uplifting start set a positive tone for the day.
 The welcome address was delivered by our senior, Ms. Taranpreet Kaur, who shared that the college is proudly celebrating its 70th Golden Jubilee, marking seven decades of excellence in education.
 
