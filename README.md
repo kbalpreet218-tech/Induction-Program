@@ -3,6 +3,7 @@ Branch - B.Tech CSE
 
 # Introduction Program
 
+
 ## Day 1
 
 ### My First Day at Guru Nanak Dev Engineering College (GNDEC) 
@@ -16,18 +17,9 @@ The session concluded with a motivational speech by Dr. Harpreet Kaur Grewal, He
 
 Following the session, we were escorted to our respective departments, officially marking the start of our academic life at GNDEC.
 
-
-
-
-
-
 # Day - 2
 
 Day 2 commenced with an English proficiency test, followed by a Mathematics proficiency test conducted by our seniors. After a brief break, we gathered in the auditorium for an insightful expert lecture by Dr. Arashdeep Singh on the topic "Food: A Pivotal Role in a Student's Overall Wellness." He shared valuable guidance on how college students can maintain their health through proper nutrition and made us aware of the available food and health facilities. The day concluded with an interactive session conducted by the Causmic Club, along with the official launch of the Introduction Activities, sparking excitement and involvement among the students.
-
-
-
-
 
 # Day - 3 
 
