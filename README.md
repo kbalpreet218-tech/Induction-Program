@@ -30,7 +30,7 @@ Day 2 commenced with an English proficiency test, followed by a Mathematics prof
 
 
 
-# Day - 3 (UNIVERSAL HUMAN VALUES)
+# Day - 3 
 
 The third day of my college journey was enriching, marked by valuable learning, engaging interactions, and inspiring leadership. 
 
