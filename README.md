@@ -3,7 +3,7 @@ Branch - B.Tech CSE
 
 # Introduction Program
 
-# Day 1
+## Day 1
 
 ### My First Day at Guru Nanak Dev Engineering College (GNDEC) 
 
