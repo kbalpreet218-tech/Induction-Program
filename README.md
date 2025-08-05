@@ -37,15 +37,15 @@ Our second lecture was on Universal Human Values, a subject that really made me 
 
 # Day - 4
 
-## C++ Programming
+### C++ Programming
 
 My day at college begins with a Peer-to-Peer (P2P) lecture, led by our seniors from the D-2 and D-3 years. These sessions focus on C++ programming and are conducted in a highly engaging and comprehensive manner. Our seniors explain each concept with great clarity and ensure that every doubt is addressed thoughtfully. Their method of teaching not only enhances our understanding but also makes learning C++ an enjoyable experience.
 
-## BEEE Lecture
+### BEEE Lecture
 
 Our second lecture was conducted by Prof. Harminder Kaur, who introduced us to the subject of Basic Electrical and Electronics Engineering (BEEE). She began the session with a brief overview of the course content, highlighting its relevance and applications. Additionally, she interacted with the students to get to know the class better, creating a comfortable and engaging learning environment.
 
-## UNIVERSAL HUMAN VALUES - 2
+### UNIVERSAL HUMAN VALUES - 2
 
 After the break, we attended a thought-provoking lecture in the auditorium by Dr. Priya Darshani on the topic of Universal Human Values. She emphasized the importance of values such as empathy, honesty, respect, compassion, and responsibility in shaping a meaningful and fulfilling life. The session encouraged us to reflect on how our thoughts, decisions, and actions impact not only ourselves but also those around us. Universal Human Values are the fundamental principles that guide human conduct and promote harmony within individuals, in relationships, and in society. Dr. Priya’s engaging talk helped us understand how living by these values can lead to both personal growth and a more compassionate world.
 
