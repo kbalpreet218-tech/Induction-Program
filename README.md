@@ -35,7 +35,7 @@ The day began with an insightful lecture by Dr. Jaswinder Singh, in charge of IA
 Our second lecture was on Universal Human Values, a subject that really made me pause and reflect. We talked about what happiness and contentment truly mean, and how they influence the way we think, act, and make decisions every day. The session felt more like a conversation than a lecture—it opened up new ways of looking at life and what it means to feel genuinely fulfilled. Hearing real-life experiences from others made everything more relatable and meaningful, and I walked away with a clearer sense of what truly matters.
 
 
-
+## Day - 4
 
 
  
