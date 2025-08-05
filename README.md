@@ -37,5 +37,7 @@ Our second lecture was on Universal Human Values, a subject that really made me 
 
 # Day - 4
 
+## C++ Programming
 
- 
+My day at college begins with a Peer-to-Peer (P2P) lecture, led by our seniors from the D-2 and D-3 years. These sessions focus on C++ programming and are conducted in a highly engaging and comprehensive manner. Our seniors explain each concept with great clarity and ensure that every doubt is addressed thoughtfully. Their method of teaching not only enhances our understanding but also makes learning C++ an enjoyable experience.
+
