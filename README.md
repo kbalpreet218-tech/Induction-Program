@@ -55,5 +55,9 @@ After the break, we attended a thought-provoking lecture in the auditorium by Dr
 "Our day began at 9:00 A.M. with the process of getting our ID cards made. While we waited for our turn, a few of us decided to take a walk around the campus—and honestly, we were amazed. The college had such a peaceful vibe, with open green spaces, clean pathways, and buildings that looked both modern and welcoming. We peeked into classrooms, passed by vibrant notice boards, and even saw students chatting and laughing in common areas. It all felt so alive and full of possibilities. That little walk made us even more excited to start this new chapter here."
 
 
+# Day - 6
 
+### CHEMISTRY LECTURE
+
+"Our Chemistry lecture was taken by Professor Karan Bhalla, and right from the start, he had a calm and approachable presence. He began by introducing us to the basics of the subject, explaining concepts in a way that actually made them feel understandable—not overwhelming. What stood out the most was how he encouraged us to ask questions and made sure no one felt left behind. It didn’t feel like a typical lecture—it felt more like a conversation. His genuine passion for Chemistry came through in the way he spoke, and it made me feel a lot more confident and curious about the subject."
 
