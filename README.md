@@ -61,3 +61,15 @@ After the break, we attended a thought-provoking lecture in the auditorium by Dr
 
 "Our Chemistry lecture was taken by Professor Karan Bhalla, and right from the start, he had a calm and approachable presence. He began by introducing us to the basics of the subject, explaining concepts in a way that actually made them feel understandable—not overwhelming. What stood out the most was how he encouraged us to ask questions and made sure no one felt left behind. It didn’t feel like a typical lecture—it felt more like a conversation. His genuine passion for Chemistry came through in the way he spoke, and it made me feel a lot more confident and curious about the subject."
 
+### ENGLISH LECTURE
+
+"After the Chemistry lecture, we had our English class with Professor Nisha. Her warm and friendly nature immediately put us at ease. She introduced the course with a gentle yet confident tone, making the subject feel approachable and enjoyable. Rather than diving straight into heavy material, she focused on building a connection with us—encouraging us to express ourselves and highlighting the importance of communication skills in both academic and real-life situations. It was a refreshing session that left many of us feeling motivated and excited to improve our English."
+
+### CML club
+
+"We also had an insightful session by Dr. Lakhvir Singh, the in-charge of CML (Center for Multi-Faceted Learning). He introduced us to the purpose and vision of the CML, explaining how it’s designed to support holistic student growth beyond academics. Through his talk, we learned that CML encourages creativity, critical thinking, collaboration, and real-world problem-solving—skills essential for success in today’s world. Dr. Lakhvir Singh spoke with genuine passion and clarity, which made us realize how many exciting opportunities await us if we choose to step out of our comfort zones and actively participate in the learning process."
+
+
+
+
+
