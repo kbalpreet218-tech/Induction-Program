@@ -50,4 +50,10 @@ Our second lecture was conducted by Prof. Harminder Kaur, who introduced us to t
 After the break, we attended a thought-provoking lecture in the auditorium by Dr. Priya Darshani on the topic of Universal Human Values. She emphasized the importance of values such as empathy, honesty, respect, compassion, and responsibility in shaping a meaningful and fulfilling life. The session encouraged us to reflect on how our thoughts, decisions, and actions impact not only ourselves but also those around us. Universal Human Values are the fundamental principles that guide human conduct and promote harmony within individuals, in relationships, and in society. Dr. Priya’s engaging talk helped us understand how living by these values can lead to both personal growth and a more compassionate world.
 
 
+# Day - 5
+
+"Our day began at 9:00 A.M. with the process of getting our ID cards made. While we waited for our turn, a few of us decided to take a walk around the campus—and honestly, we were amazed. The college had such a peaceful vibe, with open green spaces, clean pathways, and buildings that looked both modern and welcoming. We peeked into classrooms, passed by vibrant notice boards, and even saw students chatting and laughing in common areas. It all felt so alive and full of possibilities. That little walk made us even more excited to start this new chapter here."
+
+
+
 
